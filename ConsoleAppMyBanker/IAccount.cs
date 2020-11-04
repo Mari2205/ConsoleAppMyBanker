@@ -8,8 +8,6 @@ namespace ConsoleAppMyBanker
 {
     public interface IAccount
     {
-        //string Username();
-
         string GetAccountNumber();
 
     }
